@@ -1,0 +1,6 @@
+# Local orchestration memory - keep on disk, not tracked in git
+memory/
+
+# Packaging artifacts
+*.zip
+*.xpi
