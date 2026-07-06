@@ -51,4 +51,4 @@ Each test prints its name followed by `PASS`; a summary line is printed at the e
 
 ## License
 
-No license has been specified for this project yet.
+This project is licensed under the [MIT License](LICENSE).
